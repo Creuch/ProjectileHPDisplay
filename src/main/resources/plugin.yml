@@ -1,0 +1,4 @@
+name: ProjectileHpDisplayer
+version: '${project.version}'
+main: me.fiveq.projectilehpdisplayer.ProjectileHpDisplayer
+api-version: 1.19

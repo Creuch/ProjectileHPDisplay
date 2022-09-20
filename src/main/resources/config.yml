@@ -1,0 +1,2 @@
+config:
+  chat-message: "&7>>&c Gracz&f {PLAYER} &cma&4 {PLAYER_HEALTH} hp&c!"
